@@ -1,0 +1,1 @@
+This solution was chosen for its simplicity and efficiency. By processing the log file line by line, we minimize memory usage while still achieving the goal of extracting logs for a specific date. The modular design allows for easy modifications and enhancements in the future.
